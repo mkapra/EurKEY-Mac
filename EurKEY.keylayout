@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Last edited by Ukelele version 3.2.2.166 on 2017-02-16 at 16:36 (GMT+1)-->
-<keyboard group="126" id="-14519" name="EurKEY v1.2" maxout="1">
+<keyboard group="126" id="-14519" name="mkKeys" maxout="1">
 	<layouts>
 		<layout first="0" last="17" mapSet="16c" modifiers="f4"/>
 		<layout first="18" last="18" mapSet="994" modifiers="f4"/>
@@ -414,7 +414,7 @@
 			<key code="32" action="ü"/>
 			<key code="33" output="«"/>
 			<key code="34" action="ï"/>
-			<key code="35" output="œ"/>
+			<key code="35" output="ö"/>
 			<key code="36" output="&#x000D;"/>
 			<key code="37" action="ø"/>
 			<key code="38" output="ú"/>
@@ -503,11 +503,11 @@
 			<key code="9" output="Ì"/>
 			<key code="10" output="±"/>
 			<key code="11" output="Í"/>
-			<key code="12" action="Æ"/>
+			<key code="12" action="Ä"/>
 			<key code="13" output="Å"/>
 			<key code="14" action="Ë"/>
 			<key code="15" output="Ý"/>
-			<key code="16" output="Ÿ"/>
+			<key code="16" output="Ü"/>
 			<key code="17" output="Þ"/>
 			<key code="18" output="¹"/>
 			<key code="19" output="²"/>
@@ -526,7 +526,7 @@
 			<key code="32" action="Ü"/>
 			<key code="33" output="‹"/>
 			<key code="34" action="Ï"/>
-			<key code="35" output="Œ"/>
+			<key code="35" output="Ö"/>
 			<key code="36" output="&#x000D;"/>
 			<key code="37" action="Ø"/>
 			<key code="38" output="Ú"/>
@@ -619,7 +619,7 @@
 			<key code="13" output="Å"/>
 			<key code="14" output="Ë"/>
 			<key code="15" output="Ý"/>
-			<key code="16" output="Ÿ"/>
+			<key code="16" output="Ü"/>
 			<key code="17" output="Þ"/>
 			<key code="18" output="¡"/>
 			<key code="19" output="ª"/>
